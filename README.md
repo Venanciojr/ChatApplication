@@ -1,6 +1,5 @@
 # ChatApplication
-School Project network technologies
-Overview
+
 The ChatApplication is a simple console-based chat client-server application developed in Java. It allows users to connect to a server, send messages, and receive responses in real time. This application demonstrates the basic principles of network communication and client-server architecture.
 
 Features
